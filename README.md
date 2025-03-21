@@ -134,10 +134,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 5. Open a Pull Request
 
 
-## 📞 Contact
-
-Project Link: [https://github.com/GarudaR007X/Oza_Laboratory_webapp](https://github.com/GarudaR007X/Oza_Laboratory_webapp)
-
----
-
 ⭐️ From [GarudaR007X](https://github.com/GarudaR007X)
