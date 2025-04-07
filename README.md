@@ -73,7 +73,7 @@ The Oza Laboratory Management System is a comprehensive web application built on
 
 ```bash
 # Clone the repository
-git clone https://github.com/GarudaR007X/Oza_Laboratory_webapp.git
+git clone https://github.com/who0xac/Oza_Laboratory_webapp.git
 cd Oza_Laboratory_webapp
 
 # Install dependencies for frontend
@@ -134,4 +134,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 5. Open a Pull Request
 
 
-⭐️ From [GarudaR007X](https://github.com/GarudaR007X)
+⭐️ From [who0xac](https://github.com/who0xac)
